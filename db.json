@@ -1,0 +1,23 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Welcome Person",
+      "templateFields": [
+        {
+          "name": "firstName",
+          "type": "text"
+        },
+        {
+          "name": "lastName",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Welcome Client",
+      "templateFields": []
+    }
+  ]
+}
