@@ -12,12 +12,14 @@
           "name": "lastName",
           "type": "text"
         }
-      ]
+      ],
+      "html": ""
     },
     {
       "id": 2,
       "name": "Welcome Client",
-      "templateFields": []
+      "templateFields": [],
+      "html": ""
     }
   ]
 }
